@@ -3,19 +3,17 @@
 <h1 align="center">YanaMiku - BOTz (YanaMiku-Project)</h1>
 <em><h5 align="center">(Bot WhatsApp Simple By Iyuzaki Yanagi)</h5></em>
  
- ### Demo Bot
- [ In Here ](https://chat.whatsapp.com/KHcnBB9l19D1BYLHzxGb5i)
  # Kontak Creator
 
  Untuk pertanyaan apa pun mengenai perizinan atau penggunaan, silakan hubungi pemilik proyek
  - [ Email ](mailto:support@yanamiku.shop).
- - [ WhatsApp ](https://wa.me/6285793589243?text=Hallo). 
- - [ Group YanaMiku ](https://chat.whatsapp.com/HzaF888SGaMJhEq24wP29B).
- - [ Infomation ](https://whatsapp.com/channel/0029VaI3mdy3AzNSbIXT9C3L)
+ - [ Contact WhatsApp ](https://wa.me/6285793589243?text=Hallo). 
+ - [ Group WhatsApp ](https://chat.whatsapp.com/HzaF888SGaMJhEq24wP29B).
+ - [ Channel WhatsApp ](https://whatsapp.com/channel/0029VaI3mdy3AzNSbIXT9C3L)
 
  Dengan menggunakan atau berinteraksi dengan proyek ini, Anda setuju untuk terikat oleh syarat dan ketentuan lisensi ini.
 
-# Donate Links
+# Donate Links - To buy coffee ☕
 
 <b>QRIS</b>: <code>https://i.ibb.co/YpbzFYy/Screenshot-20230417-051902.png</code></br>
 **satu untuk semua, sedikit apapun donasi kamu sangat berharga ❤️**
@@ -38,13 +36,12 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
 
 ```Javascript
 {
-   "database": "database", // nama database
-   "ram_limit": "500mb", // ram limit server
+   "database": "database", // nama database (penyimpan user)
+   "ram_limit": "500mb", // ram server
    "cooldown": 3, // anti spam
    "timer": 180000, // waktu banned
    "timeout": 1800000, 
    "blocks": ["994", "91", "92"], // nomor auto block
-   "evaluate_chars":  ["=>", "~>", "<", ">", "$"], // tidak boleh di ubah
    "pairing": {
       "state": true, // jika ingin code = true, jika ingin qr = false,
       "number": 62857935892434 // ubah menjadi nomor bot
