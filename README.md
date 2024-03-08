@@ -13,7 +13,7 @@
 
  Dengan menggunakan atau berinteraksi dengan proyek ini, Anda setuju untuk terikat oleh syarat dan ketentuan lisensi ini.
 
-# Donate Links - To buy me a coffee ☕
+# Donate Links - To buy me coffee ☕
 
 <b>QRIS</b>: <code>https://i.ibb.co/YpbzFYy/Screenshot-20230417-051902.png</code></br>
 **satu untuk semua, sedikit apapun donasi kamu sangat berharga ❤️**
